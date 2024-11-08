@@ -1,1 +1,6 @@
 - GUI => C'est l'abréviation de Graphical User Interface « Interface utilisateur graphique » Cela désigne tout ce qu'on appelle grossièrement « Un programme avec des fenêtres.
+- Qt est une bibliothèque multiplateforme pour créer des GUI (programme utilisant des fenêtres). Qt est écrite en C++ et elle est, à la base, conçue pour être utilisée en C++. Toutefois, il est aujourd'hui possible de l'utiliser avec
+d'autres langages comme Java, Python, etc.
+
+
+
