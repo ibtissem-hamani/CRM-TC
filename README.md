@@ -1,13 +1,11 @@
-Projet d'Application CRM et Gestion Technico-Commerciale (CRM-TC)
-Description Générale
+# Projet d'Application CRM et Gestion Technico-Commerciale (CRM-TC)
+### Description Générale
 
 L'objectif de ce projet est de développer une application CRM complète, spécifiquement conçue pour les équipes technico-commerciales. L'application combinera la gestion des relations clients avec des fonctionnalités adaptées à la vente de produits techniques. Elle couvrira la gestion des devis, des stocks, des commandes, des contrats, des paiements, ainsi que l'analyse des performances commerciales. L'objectif est d'optimiser les processus commerciaux tout en intégrant les aspects techniques des produits et services.
 Étapes de Développement
-Étape 1 : Développement du CRM (Customer Relationship Management)
-
+## Étape 1 : Développement du CRM (Customer Relationship Management)
 Objectif : Créer une base solide pour gérer les interactions avec les clients et les opportunités commerciales.
-Fonctionnalités :
-
+### Fonctionnalités :
     Gestion des contacts clients (informations personnelles, historiques de communication).
     Suivi des opportunités de vente, création d'opportunités et gestion des devis techniques.
     Suivi des contrats commerciaux, gestion des renouvellements.
@@ -15,7 +13,7 @@ Fonctionnalités :
     Communication intégrée (emails, appels téléphoniques, etc.).
     Technologies : C++, Qt, SQLite ou MySQL.
 
-Étape 2 : Gestion des Devis et Propositions Commerciales
+## Étape 2 : Gestion des Devis et Propositions Commerciales
 
 Objectif : Développer un système pour créer des devis détaillés, incluant des informations techniques et commerciales.
 Fonctionnalités :
@@ -26,7 +24,7 @@ Fonctionnalités :
     Gestion des retours et modifications des devis selon les retours clients.
     Technologies : C++, Qt, SQLite ou MySQL.
 
-Étape 3 : Gestion des Stocks et des Commandes
+## Étape 3 : Gestion des Stocks et des Commandes
 
 Objectif : Gérer efficacement les stocks et les commandes des clients, tout en tenant compte des spécifications techniques des produits.
 Fonctionnalités :
@@ -37,7 +35,7 @@ Fonctionnalités :
     Gestion des retours de produits.
     Technologies : C++, Qt, SQLite ou MySQL.
 
-Étape 4 : Gestion des Contrats et des Relations Clients
+## Étape 4 : Gestion des Contrats et des Relations Clients
 
 Objectif : Assurer un suivi détaillé des contrats clients et de leur gestion à long terme.
 Fonctionnalités :
@@ -47,7 +45,7 @@ Fonctionnalités :
     Gestion des litiges et réclamations techniques ou commerciales.
     Technologies : C++, Qt, SQLite ou MySQL.
 
-Étape 5 : Système de Facturation et de Suivi des Paiements
+## Étape 5 : Système de Facturation et de Suivi des Paiements
 
 Objectif : Permettre la génération de factures détaillées et le suivi des paiements.
 Fonctionnalités :
